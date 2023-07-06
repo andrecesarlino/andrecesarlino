@@ -6,7 +6,6 @@ Bem-vindo(a) ao meu perfil! Sou um desenvolvedor apaixonado por criar soluções
 
 - Desenvolvimento com ReactJS e React Native
 - Backend com PHP e SQL
-- Administração de servidores
 - Apaixonado por criar experiências incríveis para o usuário
 
   <div style="display: inline_block"><br>
@@ -21,7 +20,7 @@ Bem-vindo(a) ao meu perfil! Sou um desenvolvedor apaixonado por criar soluções
 
 - [Projeto NLW](https://github.com/andrecesarlino/NLWSpacetimeWeb): Projeto que é um intensivo de Reactjs
 - [Projeto de Design system](https://github.com/andrecesarlino/designSystem): Criado um projeto em Reactjs para Padrões e diretrizes e experiência do usuário em produtos digitais
-- 
+  
 ## Vamos colaborar?
 
 Estou sempre aberto a novas oportunidades de colaboração. Se você tem um projeto interessante ou gostaria de trocar ideias, sinta-se à vontade para entrar em contato!
