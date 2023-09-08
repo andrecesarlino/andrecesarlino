@@ -5,7 +5,7 @@ Bem-vindo(a) ao meu perfil! Sou um desenvolvedor apaixonado por criar soluções
 ## Habilidades e Interesses
 
 - Desenvolvimento com ReactJS e React Native
-- Backend com PHP e SQL
+- Backend com Nodejs
 - Apaixonado por criar experiências incríveis para o usuário
 
   <div style="display: inline_block"><br>
