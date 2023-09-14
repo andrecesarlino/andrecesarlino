@@ -1,12 +1,11 @@
 # Olá! 👋
 
-Bem-vindo(a) ao meu perfil! Sou um desenvolvedor apaixonado por criar soluções incríveis com ReactJS e React Native. Tenho conhecimentos em PHP, SQL e administração de servidores. 
+Bem-vindo(a) ao meu perfil! Sou um desenvolvedor de soluções com ReactJS e Nodejs.
 
 ## Habilidades e Interesses
 
 - Desenvolvimento com ReactJS e React Native
 - Backend com Nodejs
-- Apaixonado por criar experiências incríveis para o usuário
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -19,6 +18,8 @@ Bem-vindo(a) ao meu perfil! Sou um desenvolvedor apaixonado por criar soluções
 ## Projetos Destacados
 
 - [Projeto NLW](https://github.com/andrecesarlino/NLWSpacetimeWeb): Projeto que é um intensivo de Reactjs
+- [Projeto de IA back](https://github.com/andrecesarlino/upload-ia-video-generator-back): Neste repositório é feita toda a parte de comunicação entre a OpenAI e uma API Node
+- [Projeto de IA front](https://github.com/andrecesarlino/upload-ia-video-generator-web): Usando React e tailwind é feita a ligação com o back, onde é pegado o vídeo e transformado em .mp3 para a IA capturar o áudio e transcrever.
 - [Projeto de Design system](https://github.com/andrecesarlino/designSystem): Criado um projeto em Reactjs para Padrões e diretrizes e experiência do usuário em produtos digitais
   
 ## Vamos colaborar?
