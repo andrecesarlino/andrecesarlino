@@ -1,6 +1,6 @@
 # André César Lino
 
-Desenvolvedor full stack. Trabalho principalmente com **React** e **Next.js** no front-end, **Node.js** e **TypeScript** no back-end, e venho usando **Go** e **Svelte** nos projetos mais recentes.
+Desenvolvedor full stack. Trabalho principalmente com **TypeScript**: React e Next.js no front-end, Node.js no back-end. Nos projetos mais recentes venho usando **Go** e **Svelte**.
 
 Também mexo bastante com Postgres, Docker e self-hosting no dia a dia.
 
